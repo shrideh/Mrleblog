@@ -1,0 +1,8 @@
+[06-Mar-2020 13:21:23 UTC] PHP Warning:  require(c:\Users\Motaz\blog\/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\Motaz\.vscode\extensions\tiansin.vscode-laravel-assist-0.1.7\assets\cache\T9bqPjFA on line 24
+[06-Mar-2020 13:21:23 UTC] PHP Fatal error:  require(): Failed opening required 'c:\Users\Motaz\blog\/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\Motaz\.vscode\extensions\tiansin.vscode-laravel-assist-0.1.7\assets\cache\T9bqPjFA on line 24
+[06-Mar-2020 13:24:40 UTC] PHP Warning:  require(C:\Users\Motaz\blog/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\Motaz\blog\artisan on line 18
+[06-Mar-2020 13:24:40 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\Motaz\blog/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\Motaz\blog\artisan on line 18
+[06-Mar-2020 13:27:52 UTC] PHP Warning:  require(C:\Users\Motaz\blog/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\Motaz\blog\artisan on line 18
+[06-Mar-2020 13:27:52 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\Motaz\blog/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\Motaz\blog\artisan on line 18
+[06-Mar-2020 13:29:52 UTC] PHP Warning:  require(C:\Users\Motaz\blog/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\Motaz\blog\artisan on line 18
+[06-Mar-2020 13:29:52 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\Motaz\blog/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\Motaz\blog\artisan on line 18
